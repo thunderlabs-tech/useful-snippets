@@ -1,3 +1,2 @@
-# useful-snippets
-
-Here are some useful snippets we use at Thunder Labs.
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
